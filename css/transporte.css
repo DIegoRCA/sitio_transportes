@@ -258,13 +258,13 @@ transform: scaleX(-1);
     border-right: 1px solid gray;
 }
 .columna.right p{
-    font-size: 00.9em;
+    font-size: 0.9em;
 }
 
 .formulario label{
     vertical-align: top;
     width: 20%;
-    display:inline-block
+    display:inline-block;
 }
 .formulario input, .formulario textarea{
     background-color: #ddd;
@@ -285,9 +285,7 @@ transform: scaleX(-1);
     cursor:pointer;
 }
 
-.formulario textarea{
-    height: 10em;
-    resize: none;
+
 }
 
 .formulario .acciones{
